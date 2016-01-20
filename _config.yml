@@ -1,7 +1,7 @@
 name: Doug Sturgess Photography
 favicon: null
-layout_spectrum: 0.824897926999256
-typography_spectrum: 0.371389236766845
+layout_spectrum: 1
+typography_spectrum: 0.6104
 title: DOUG STURGESS PHOTOGRAPHY
 cta:
   domain: null
@@ -17,13 +17,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#B8B42D'
-    - '#697A21'
-    - '#FFFCE8'
-    - '#3E363F'
-    - '#DD403A'
-  brandStrength: 0.5237539699301124
+    - '#000000'
+    - '#9f311e'
+    - '#d3846c'
+    - '#dcac00'
+    - '#eaeaea'
+  brandStrength: 1
   lightness: 0.45347097935155034
-  saturation: 0.23328130063600838
+  saturation: 0.0625
   rhythmicContrast: 0.7854940979741514
 purpose: []
