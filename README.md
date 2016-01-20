@@ -1,0 +1,1 @@
+# doug-sturgess-photography
