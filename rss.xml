@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[DOUG STURGESS PHOTOGRAPHY]]></title>
+        <description><![CDATA[DOUG STURGESS PHOTOGRAPHY]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Wed, 20 Jan 2016 22:16:17 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/214d7d8d-c81a-4087-8f6e-a2b8c41aa1da.jpg">]]></description>
+            <link>undefined2876c8b0-7f77-499a-9387-232b1875bb41/index.html</link>
+            <guid isPermaLink="false">2876c8b0-7f77-499a-9387-232b1875bb41</guid>
+            <pubDate>Wed, 20 Jan 2016 22:16:15 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
